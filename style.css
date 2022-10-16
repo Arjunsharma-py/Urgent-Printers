@@ -1,4 +1,55 @@
-html, body {
-  height: 100%;
-  width: 100%;
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.navbar{
+  display: flex;
+  align-items: center;
+  margin: 2px 7px;
+  padding: 10px 0px;
+}
+
+.navbar ul li{
+  list-style: none;
+}
+
+.navbar a{
+  text-decoration: none;
+  margin: 10px 2px;
+  padding: 10px 6px;
+}
+
+#links ul{
+  display: flex;
+  align-items: center;
+}
+
+#links ul li a{
+  margin: 5px;
+  align-items: right;
+}
+
+#logo{
+  position: absolute;
+  left: 50%;
+  top: 8px;
+  text-align: center;
+  height: 50px;
+  display: flex;
+  text-decoration: none;
+  transform: translate(-50%, -50%);
+}
+
+#logo a{
+  font-size: 2rem;
+}
+
+#auth{
+  position: absolute;
+  right: 0;
+}
+
+#auth ul{
+  display: flex;
 }

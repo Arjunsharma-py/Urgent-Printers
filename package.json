@@ -1,0 +1,19 @@
+{
+  "name": "arjunsharma",
+  "version": "1.0.0",
+  "description": "Just a test for node js",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arjunsharma-py/Urgent-Printers.git"
+  },
+  "author": "Arjun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arjunsharma-py/Urgent-Printers/issues"
+  },
+  "homepage": "https://github.com/Arjunsharma-py/Urgent-Printers#readme"
+}

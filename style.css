@@ -8,7 +8,7 @@
   justify-content: space-between;
   align-items: center;
   margin: 0px;
-  padding: 10px 0px;
+  padding: 5px 0px;
   background-color: rgb(230, 203, 255);
 }
 
@@ -50,4 +50,21 @@
 
 #auth ul{
   display: flex;
+}
+
+.section{
+  width: 70%;
+  margin: auto;
+  background-color: #d9e6e4;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(230 203 255);
+}
+
+.footer{
+  position: absolute;
+  width: 100%;
+  margin: auto;
+  bottom: 0px;
+  background-color: #77ffeb;
 }
